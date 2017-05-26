@@ -1,0 +1,75 @@
+{
+  "ConfigFileVersion": {
+    "Major": 1,
+    "Minor": 7,
+    "Build": 5,
+    "Revision": 12,
+    "MajorRevision": 0,
+    "MinorRevision": 12
+  },
+  "Language": 0,
+  "DisplayCurrency": "USD",
+  "DebugConsole": false,
+  "BitcoinAddress": "1DoktJWSAzbUfduzN6wvjZkvTdEhtB9oLC",
+  "WorkerName": "worker1",
+  "ServiceLocation": 0,
+  "AutoStartMining": false,
+  "HideMiningWindows": false,
+  "MinimizeToTray": false,
+  "ForceCPUExtension": 0,
+  "SwitchMinSecondsFixed": 90,
+  "SwitchMinSecondsDynamic": 30,
+  "SwitchMinSecondsAMD": 90,
+  "SwitchProfitabilityThreshold": 0.05,
+  "MinerAPIQueryInterval": 5,
+  "MinerRestartDelayMS": 500,
+  "BenchmarkTimeLimits": {
+    "CPU": [
+      10,
+      20,
+      60
+    ],
+    "NVIDIA": [
+      10,
+      20,
+      60
+    ],
+    "AMD": [
+      120,
+      180,
+      240
+    ]
+  },
+  "DeviceDetection": {
+    "DisableDetectionAMD": false,
+    "DisableDetectionNVIDIA": false
+  },
+  "DisableAMDTempControl": true,
+  "DisableDefaultOptimizations": false,
+  "AutoScaleBTCValues": true,
+  "StartMiningWhenIdle": false,
+  "MinIdleSeconds": 60,
+  "LogToFile": true,
+  "LogMaxFileSize": 1048576,
+  "ShowDriverVersionWarning": true,
+  "DisableWindowsErrorReporting": true,
+  "NVIDIAP0State": false,
+  "ethminerDefaultBlockHeight": 2000000,
+  "EthminerDagGenerationType": 0,
+  "ApiBindPortPoolStart": 4000,
+  "MinimumProfit": 0.0,
+  "IdleWhenNoInternetAccess": true,
+  "DownloadInit": true,
+  "Use3rdPartyMiners": 2,
+  "DownloadInit3rdParty": true,
+  "AllowMultipleInstances": true,
+  "LastDevicesSettup": [
+    {
+      "Name": "Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz",
+      "Enabled": true,
+      "UUID": "GEN-91a9d820f3e6f35c55376295d6dc040dd2478ded47eb0f950ebe48a2f293db04"
+    }
+  ],
+  "hwid": "1F8BFBFF000306F2",
+  "agreedWithTOS": 3
+}

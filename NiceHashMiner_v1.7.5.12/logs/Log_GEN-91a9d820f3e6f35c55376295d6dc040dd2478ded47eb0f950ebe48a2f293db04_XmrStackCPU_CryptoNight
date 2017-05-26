@@ -1,0 +1,148 @@
+[2017-05-26 10:27:36] : MEMORY INIT ERROR: Obtaning SeLockMemoryPrivilege failed.
+[2017-05-26 10:27:36] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:36] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:36] : Running a 20 second benchmark...
+[2017-05-26 10:27:36] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:36] : Starting single thread, no affinity.
+[2017-05-26 10:27:36] : Starting single thread, no affinity.
+[2017-05-26 10:27:36] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:36] : Starting single thread, no affinity.
+[2017-05-26 10:27:36] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:36] : Starting single thread, no affinity.
+[2017-05-26 10:27:36] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:36] : Starting single thread, no affinity.
+[2017-05-26 10:27:36] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:36] : Starting single thread, no affinity.
+[2017-05-26 10:27:36] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:36] : Starting single thread, no affinity.
+[2017-05-26 10:27:36] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:36] : Starting single thread, no affinity.
+[2017-05-26 10:27:36] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:56] : Thread 0: 39.4 H/S
+[2017-05-26 10:27:56] : Thread 1: 39.0 H/S
+[2017-05-26 10:27:56] : Thread 2: 40.2 H/S
+[2017-05-26 10:27:56] : Thread 3: 39.2 H/S
+[2017-05-26 10:27:56] : Thread 4: 40.2 H/S
+[2017-05-26 10:27:56] : Thread 5: 32.2 H/S
+[2017-05-26 10:27:56] : Thread 6: 39.1 H/S
+[2017-05-26 10:27:56] : Thread 7: 40.4 H/S
+[2017-05-26 10:27:56] : Total: 309.7 H/S
+[2017-05-26 10:27:57] : MEMORY INIT ERROR: Obtaning SeLockMemoryPrivilege failed.
+[2017-05-26 10:27:57] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:57] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:57] : Running a 20 second benchmark...
+[2017-05-26 10:27:57] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:57] : Starting single thread, no affinity.
+[2017-05-26 10:27:57] : Starting single thread, no affinity.
+[2017-05-26 10:27:57] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:57] : Starting single thread, no affinity.
+[2017-05-26 10:27:57] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:57] : Starting single thread, no affinity.
+[2017-05-26 10:27:57] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:57] : Starting single thread, no affinity.
+[2017-05-26 10:27:57] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:57] : Starting single thread, no affinity.
+[2017-05-26 10:27:57] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:27:57] : Starting single thread, no affinity.
+[2017-05-26 10:27:57] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:17] : Thread 0: 39.7 H/S
+[2017-05-26 10:28:17] : Thread 1: 39.6 H/S
+[2017-05-26 10:28:17] : Thread 2: 39.7 H/S
+[2017-05-26 10:28:17] : Thread 3: 39.5 H/S
+[2017-05-26 10:28:17] : Thread 4: 40.0 H/S
+[2017-05-26 10:28:17] : Thread 5: 39.3 H/S
+[2017-05-26 10:28:17] : Thread 6: 39.0 H/S
+[2017-05-26 10:28:17] : Total: 276.8 H/S
+[2017-05-26 10:28:17] : MEMORY INIT ERROR: Obtaning SeLockMemoryPrivilege failed.
+[2017-05-26 10:28:17] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:17] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:17] : Running a 20 second benchmark...
+[2017-05-26 10:28:17] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:17] : Starting single thread, no affinity.
+[2017-05-26 10:28:17] : Starting single thread, no affinity.
+[2017-05-26 10:28:17] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:17] : Starting single thread, no affinity.
+[2017-05-26 10:28:17] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:17] : Starting single thread, no affinity.
+[2017-05-26 10:28:17] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:17] : Starting single thread, no affinity.
+[2017-05-26 10:28:17] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:17] : Starting single thread, no affinity.
+[2017-05-26 10:28:17] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:38] : Thread 0: 40.0 H/S
+[2017-05-26 10:28:38] : Thread 1: 39.5 H/S
+[2017-05-26 10:28:38] : Thread 2: 39.5 H/S
+[2017-05-26 10:28:38] : Thread 3: 39.7 H/S
+[2017-05-26 10:28:38] : Thread 4: 39.9 H/S
+[2017-05-26 10:28:38] : Thread 5: 39.7 H/S
+[2017-05-26 10:28:38] : Total: 238.3 H/S
+[2017-05-26 10:28:38] : MEMORY INIT ERROR: Obtaning SeLockMemoryPrivilege failed.
+[2017-05-26 10:28:38] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:38] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:38] : Running a 20 second benchmark...
+[2017-05-26 10:28:38] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:38] : Starting single thread, no affinity.
+[2017-05-26 10:28:38] : Starting single thread, no affinity.
+[2017-05-26 10:28:38] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:38] : Starting single thread, no affinity.
+[2017-05-26 10:28:38] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:38] : Starting single thread, no affinity.
+[2017-05-26 10:28:38] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:38] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:38] : Starting single thread, no affinity.
+[2017-05-26 10:28:58] : Thread 0: 39.6 H/S
+[2017-05-26 10:28:58] : Thread 1: 39.8 H/S
+[2017-05-26 10:28:58] : Thread 2: 39.7 H/S
+[2017-05-26 10:28:58] : Thread 3: 39.6 H/S
+[2017-05-26 10:28:58] : Thread 4: 39.5 H/S
+[2017-05-26 10:28:58] : Total: 198.1 H/S
+[2017-05-26 10:28:59] : MEMORY INIT ERROR: Obtaning SeLockMemoryPrivilege failed.
+[2017-05-26 10:28:59] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:59] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:59] : Running a 20 second benchmark...
+[2017-05-26 10:28:59] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:59] : Starting single thread, no affinity.
+[2017-05-26 10:28:59] : Starting single thread, no affinity.
+[2017-05-26 10:28:59] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:59] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:28:59] : Starting single thread, no affinity.
+[2017-05-26 10:28:59] : Starting single thread, no affinity.
+[2017-05-26 10:28:59] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:29:19] : Thread 0: 39.0 H/S
+[2017-05-26 10:29:19] : Thread 1: 39.6 H/S
+[2017-05-26 10:29:19] : Thread 2: 39.5 H/S
+[2017-05-26 10:29:19] : Thread 3: 38.9 H/S
+[2017-05-26 10:29:19] : Total: 157.0 H/S
+[2017-05-26 10:29:19] : MEMORY INIT ERROR: Obtaning SeLockMemoryPrivilege failed.
+[2017-05-26 10:29:19] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:29:19] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:29:19] : Running a 20 second benchmark...
+[2017-05-26 10:29:19] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:29:19] : Starting single thread, no affinity.
+[2017-05-26 10:29:19] : Starting single thread, no affinity.
+[2017-05-26 10:29:19] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:29:19] : Starting single thread, no affinity.
+[2017-05-26 10:29:19] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:29:39] : Thread 0: 40.0 H/S
+[2017-05-26 10:29:39] : Thread 1: 39.7 H/S
+[2017-05-26 10:29:39] : Thread 2: 39.8 H/S
+[2017-05-26 10:29:39] : Total: 119.4 H/S
+[2017-05-26 10:29:40] : MEMORY INIT ERROR: Obtaning SeLockMemoryPrivilege failed.
+[2017-05-26 10:29:40] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:29:40] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:29:40] : Running a 20 second benchmark...
+[2017-05-26 10:29:40] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:29:40] : Starting single thread, no affinity.
+[2017-05-26 10:29:40] : Starting single thread, no affinity.
+[2017-05-26 10:29:40] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:30:00] : Thread 0: 40.3 H/S
+[2017-05-26 10:30:00] : Thread 1: 40.5 H/S
+[2017-05-26 10:30:00] : Total: 80.8 H/S
+[2017-05-26 10:30:01] : MEMORY INIT ERROR: Obtaning SeLockMemoryPrivilege failed.
+[2017-05-26 10:30:01] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:30:01] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:30:01] : Running a 20 second benchmark...
+[2017-05-26 10:30:01] : MEMORY ALLOC FAILED: VirtualAlloc failed.
+[2017-05-26 10:30:01] : Starting single thread, no affinity.
+[2017-05-26 10:30:21] : Thread 0: 40.8 H/S
+[2017-05-26 10:30:21] : Total: 40.8 H/S

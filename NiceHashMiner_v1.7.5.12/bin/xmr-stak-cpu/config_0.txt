@@ -1,0 +1,55 @@
+
+  "cpu_thread_num": 8,
+  "cpu_threads_conf": [
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    }
+  ],
+  "use_slow_memory": "warn",
+  "nicehash_nonce": true,
+  "pool_address": "cryptonight.eu.nicehash.com:3355",
+  "wallet_address": "1DoktJWSAzbUfduzN6wvjZkvTdEhtB9oLC.worker1",
+  "pool_password": "x",
+  "call_timeout": 10,
+  "retry_time": 10,
+  "verbose_level": 3,
+  "h_print_time": 60,
+  "httpd_port": 4001,
+  "prefer_ipv4": true

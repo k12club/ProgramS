@@ -1,0 +1,16 @@
+{
+  "DeviceUUID": "GEN-91a9d820f3e6f35c55376295d6dc040dd2478ded47eb0f950ebe48a2f293db04",
+  "DeviceName": "Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz",
+  "AlgorithmSettings": [
+    {
+      "Name": "XmrStackCPU_CryptoNight",
+      "NiceHashID": 22,
+      "MinerBaseType": 10,
+      "MinerName": "cryptonight",
+      "BenchmarkSpeed": 309.7,
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "LessThreads": 0
+    }
+  ]
+}

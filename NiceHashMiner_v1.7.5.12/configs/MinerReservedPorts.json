@@ -1,0 +1,81 @@
+{
+  "cpuminer": {},
+  "ccminer": {
+    "bin\\ccminer_decred\\ccminer.exe": {
+      "Decred": []
+    },
+    "bin\\ccminer_tpruvot\\ccminer.exe": {
+      "Lbry": [],
+      "X11Gost": []
+    },
+    "bin\\ccminer_cryptonight\\ccminer.exe": {
+      "CryptoNight": []
+    },
+    "bin\\ccminer_neoscrypt\\ccminer.exe": {
+      "NeoScrypt": []
+    },
+    "bin\\ccminer_nanashi\\ccminer.exe": {
+      "Lyra2REv2": []
+    }
+  },
+  "sgminer": {
+    "bin\\sgminer-gm\\sgminer.exe": {
+      "DaggerHashimoto": [],
+      "CryptoNight": []
+    },
+    "bin\\sgminer-5-6-0-general\\sgminer.exe": {
+      "Decred": [],
+      "Lbry": [],
+      "Pascal": [],
+      "X11Gost": []
+    }
+  },
+  "nheqminer": {
+    "bin\\nheqminer_v0.4b\\nheqminer.exe": {
+      "Equihash": []
+    }
+  },
+  "eqm": {},
+  "ethminer": {
+    "bin\\ethminer\\ethminer.exe": {
+      "DaggerHashimoto": []
+    }
+  },
+  "ClaymoreAMD": {
+    "bin_3rdparty\\claymore_cryptonight\\NsGpuCNMiner.exe": {
+      "CryptoNight": []
+    },
+    "bin_3rdparty\\claymore_zcash\\ZecMiner64.exe": {
+      "Equihash": []
+    },
+    "bin_3rdparty\\claymore_dual\\EthDcrMiner64.exe": {
+      "DaggerHashimoto": []
+    }
+  },
+  "OptiminerAMD": {
+    "bin_3rdparty\\optiminer_zcash_win\\Optiminer.exe": {
+      "Equihash": []
+    }
+  },
+  "excavator": {
+    "bin\\excavator\\excavator.exe": {
+      "Equihash": [],
+      "Pascal": []
+    }
+  },
+  "XmrStackCPU": {
+    "bin\\xmr-stak-cpu\\xmr-stak-cpu.exe": {
+      "CryptoNight": []
+    }
+  },
+  "ccminer_alexis": {
+    "bin\\ccminer_x11gost\\ccminer.exe": {
+      "X11Gost": []
+    }
+  },
+  "experimental": {
+    "bin\\ccminer_neoscrypt\\ccminer.exe": {
+      "NeoScrypt": []
+    }
+  }
+}
